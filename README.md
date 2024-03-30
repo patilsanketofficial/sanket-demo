@@ -1,2 +1,2 @@
 # sanket-demo
-this is deo for git and github class
+this is deo for git and github class.
